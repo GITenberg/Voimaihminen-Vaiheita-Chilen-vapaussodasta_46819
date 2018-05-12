@@ -1,9 +1,13 @@
 _repo: Voimaihminen-Vaiheita-Chilen-vapaussodasta_46819
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hämeen-Anttila, Väinö
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46819#Voimaihminen-Vaiheita-Chilen-vapaussodasta
 gutenberg_issued: '2014-09-09'
 gutenberg_type: Text
 identifiers:
